@@ -1,0 +1,8 @@
+This Repository Contains two new apps made by me.
+These are the assignments of my ongoing course on flutter.
+
+1: TIC TAC TOE
+2: CALCULATOR
+
+I have combined both the apps into one App and 
+created a Menu page from where a user can access both the apps.
