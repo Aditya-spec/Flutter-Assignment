@@ -3,7 +3,6 @@ void main(List<String> args) {
   var arr = [4, 15, 3, 7, 0];
 
   //declaring an empty list which will store the leaders
-//editing for push
   var leaders = [];
   int i = arr.length - 1;
   int j = 0;
